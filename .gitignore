@@ -1,0 +1,5 @@
+.DS_Store
+*.dSYM/
+Thumbs.db
+desktop.ini
+oldConfig.plist
